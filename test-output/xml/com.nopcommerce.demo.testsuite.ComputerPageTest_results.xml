@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nop commerce smoke Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.123">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="1.734" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="5.389" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+      
+</testsuite>
